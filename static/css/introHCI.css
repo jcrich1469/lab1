@@ -16,6 +16,12 @@ body {
      padding: 20px;
 }
 
+.project {
+	
+	margin-left: 20px;	
+	
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -32,3 +38,5 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+
